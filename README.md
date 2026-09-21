@@ -32,30 +32,6 @@ Built as the group minor project for **Analog Circuits (UES301)**, Electrical En
 | 12 V DC supply | Power (solar is suggested as an option) |
 | 100 µF capacitors, resistors, jumper wires, breadboard | Supporting parts |
 
-## Repository layout
-
-```
-.
-├── README.md
-├── docs/
-│   ├── ASCIS_Minor_Project_Report.docx          # editable report
-│   ├── ASCIS_Minor_Project_Report_submitted.pdf # report as submitted
-│   └── images/
-│       └── circuit-diagram.png
-└── firmware/                                     # Arduino sketch (to be added)
-```
-
-## Status
-
-- [x] Project report and circuit diagram
-- [ ] Arduino sketch (`firmware/`)
-- [ ] Pin-mapping table for the wiring
-- [ ] Moisture threshold calibration notes
-
 ## Team
 
 Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
-
-## Report
-
-Full write-up (introduction, objectives, circuit diagram, working principle, results, applications, references): [`docs/ASCIS_Minor_Project_Report.docx`](docs/ASCIS_Minor_Project_Report.docx)
