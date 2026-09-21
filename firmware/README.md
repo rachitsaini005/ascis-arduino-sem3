@@ -14,7 +14,7 @@ Board: **Arduino Uno**. Builds to about 15.7 KB of flash and 0.7 KB of RAM.
 
 ## Pin map
 
-Read from `docs/images/circuit-diagram.png`. **Check it against your real wiring before powering the pump.**
+Read from `images/circuit-diagram.png`. **Check it against your real wiring before powering the pump.**
 
 | Signal | Arduino pin | Notes |
 |---|---|---|
