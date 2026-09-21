@@ -5,7 +5,7 @@ An Arduino Uno–based irrigation controller for small and medium-sized farms. S
 Built as the group minor project for **Analog Circuits (UES301)**, Electrical Engineering, Thapar Institute of Engineering & Technology (TIET), Patiala — July–December 2024.
 
 <p align="center">
-  <img src="docs/images/circuit-diagram.png" alt="ASCIS circuit diagram" width="300">
+  <img src="images/circuit-diagram.png" alt="ASCIS circuit diagram" width="300">
 </p>
 
 ## How it works
