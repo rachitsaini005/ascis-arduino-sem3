@@ -5,7 +5,7 @@ An Arduino Uno–based irrigation controller for small and medium-sized farms. S
 Built as the group minor project for **Analog Circuits (UES301)**, Electrical Engineering, Thapar Institute of Engineering & Technology (TIET), Patiala — July–December 2024.
 
 <p align="center">
-  <img src="docs/images/circuit-diagram.png" alt="ASCIS circuit diagram" width="300">
+  <img src="images/circuit-diagram.png" alt="ASCIS circuit diagram" width="300">
 </p>
 
 ## How it works
@@ -39,8 +39,7 @@ Built as the group minor project for **Analog Circuits (UES301)**, Electrical En
 .
 ├── README.md
 ├── docs/
-│   ├── ASCIS_Minor_Project_Report.docx          # editable report
-│   ├── ASCIS_Minor_Project_Report_submitted.pdf # report as submitted
+│   ├── ASCIS_Project_Report_submitted.pdf # report as submitted
 │   └── images/
 │       └── circuit-diagram.png
 └── firmware/
@@ -50,13 +49,6 @@ Built as the group minor project for **Analog Circuits (UES301)**, Electrical En
         └── config.h                              # pins, thresholds, options
 ```
 
-## Status
-
-- [x] Project report and circuit diagram
-- [x] Arduino sketch (`firmware/`) — compiles for the Uno; pin map and calibration steps in `firmware/README.md`
-- [ ] Verify the pin map against the physical build
-- [ ] Field-calibrate the moisture thresholds
-
 ## Team
 
 Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
@@ -65,4 +57,4 @@ Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
 
 Firmware setup and tuning: [`firmware/README.md`](firmware/README.md)
 
-Full write-up (introduction, objectives, circuit diagram, working principle, results, applications, references): [`docs/ASCIS_Minor_Project_Report.docx`](docs/ASCIS_Minor_Project_Report.docx)
+Full write-up (introduction, objectives, circuit diagram, working principle, results, applications, references): [`docs/ASCIS_Project_Report.docx`](docs/ASCIS_Project_Report.pdf)
