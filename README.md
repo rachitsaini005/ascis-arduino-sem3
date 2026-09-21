@@ -49,10 +49,6 @@ Built as the group minor project for **Analog Circuits (UES301)**, Electrical En
         └── config.h                              # pins, thresholds, options
 ```
 
-## Team
-
-Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
-
 ## Report
 
 Firmware setup and tuning: [`firmware/README.md`](firmware/README.md)
