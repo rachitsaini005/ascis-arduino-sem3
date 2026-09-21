@@ -31,7 +31,3 @@ Built as the group minor project for **Analog Circuits (UES301)**, Electrical En
 | L7805CV | Fixed 5 V linear regulator |
 | 12 V DC supply | Power (solar is suggested as an option) |
 | 100 µF capacitors, resistors, jumper wires, breadboard | Supporting parts |
-
-## Team
-
-Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
