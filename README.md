@@ -57,4 +57,4 @@ Rachit Saini, Debojeet Dutta, Yatin Jha, Meitreya Priyadarshi
 
 Firmware setup and tuning: [`firmware/README.md`](firmware/README.md)
 
-Full write-up (introduction, objectives, circuit diagram, working principle, results, applications, references): [`docs/ASCIS_Project_Report.docx`](docs/ASCIS_Project_Report.pdf)
+Full write-up (introduction, objectives, circuit diagram, working principle, results, applications, references): [`docs/ASCIS_Project_Report.pdf`](docs/ASCIS_Project_Report.pdf)
